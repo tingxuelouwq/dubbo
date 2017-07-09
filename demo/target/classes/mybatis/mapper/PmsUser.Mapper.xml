@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper>
+
+    <!-- 用户信息表 -->
+    <sql id="pms_user">pms_user</sql>
+
+    <resultMap id="beanMap" type="PmsUser">
+        <id column="id" property="id"/>
+        <result column="version" property="version"/>
+        <result column="user_no" property="userNo"/>
+        <result column="user_pwd" property="userPwd"/>
+        <result column="create_time" property="createTime"/>
+        <result column="user_name" property="userName"/>
+        <result column="email" property="email"/>
+        <result column="mobile_no" property="mobileNo"/>
+        <result column="status" property="status"/>
+        <result column="user_type" property="userType"/>
+        <result column="last_login_time" property="lastLoginTime"/>
+        <result column="is_changed_pwd" property="isChangedPwd" javaType="Boolean" jdbcType="INTEGER"/>
+        <result column="pwd_error_count" property="pwdErrorCount"/>
+        <result column="pwd_error_time" property="pwdErrorTime"/>
+        <result column="remark" property="remark"/>
+    </resultMap>
+
+    <insert id="insert" parameterType="PmsUser" keyProperty="id" useGeneratedKeys="true">
+        INSERT INTO
+        <include refid="pms_user"/>
+        (version, create_time, main_user_id, user_name, user_no,user_pwd,
+        email, mobile_no, status, user_type, last_login_time, is_changed_pwd, pwd_error_count, pwd_error_time,remark)
+        VALUES (0, NOW(), #{mainUserId}, #{userName}, #{userNo},#{userPwd}, #{email}, #{mobileNo}, #{status},
+        #{userType},
+        #{lastLoginTime}, #{isChangedPwd,javaType=Boolean,jdbcType=INTEGER}, 0, #{pwdErrorTime}, #{remark})
+    </insert>
+
+    <insert id="batchInsert" parameterType="list" keyProperty="id" useGeneratedKeys="true">
+        INSERT INTO
+        <include refid="pms_user"/>
+        VALUES
+        <foreach collection="list" index="index" item="item" open="" close="" separator=",">
+            (0, NOW(), #{item.mainUserId}, #{item.userName}, #{item.userNo},#{item.userPwd}, #{item.email},
+            #{item.mobileNo},
+            #{item.status},
+            #{item.userType},
+            #{item.lastLoginTime}, #{item.isChangedPwd,javaType=Boolean,jdbcType=INTEGER}, 0, #{item.pwdErrorTime},
+            #{item.remark})
+        </foreach>
+    </insert>
+
+    <delete id="deleteById" parameterType="long">
+        DELETE FROM
+        <include refid="pms_user"/>
+        WHERE id = #{id}
+    </delete>
+
+    <delete id="batchDeleteById" parameterType="list">
+        DELETE FROM
+        <include refid="pms_user"/>
+        WHERE id IN
+        <foreach collection="list" index="index" item="item" open="(" close=")" separator=",">
+            #{item}
+        </foreach>
+    </delete>
+
+    <update id="update" parameterType="PmsUser">
+        UPDATE
+        <include refid="pms_user"/>
+        <set>
+            version = #{version}+1,
+            main_user_id = #{mainUserId},
+            user_name = #{userName},
+            user_no = #{userNo},
+            user_pwd = #{userPwd},
+            email = #{email},
+            mobile_no = #{mobileNo},
+            status = #{status},
+            user_type = #{userType},
+            last_login_time = #{lastLoginTime},
+            is_changed_pwd = #{isChangedPwd,javaType=Boolean,jdbcType=INTEGER},
+            pwd_error_count = #{pwdErrorCount},
+            pwd_error_time = #{pwdErrorTime},
+            remark = #{remark}
+        </set>
+        <where>
+            id = #{item.id} AND version = #{item.version}
+        </where>
+    </update>
+
+    <update id="batchUpdate" parameterType="list">
+        <foreach collection="list" index="index" item="item" open="" close="" separator=";">
+            UPDATE
+            <include refid="pms_user"/>
+            <set>
+                version = #{item.version}+1,
+                main_user_id = #{item.mainUserId},
+                user_name = #{item.userName},
+                user_no = #{item.userNo},
+                user_pwd = #{item.userPwd},
+                email = #{item.email},
+                mobile_no = #{item.mobileNo},
+                status = #{item.status},
+                user_type = #{item.userType},
+                last_login_time = #{item.lastLoginTime},
+                is_changed_pwd = #{item.isChangedPwd,javaType=Boolean,jdbcType=INTEGER},
+                pwd_error_count = #{item.pwdErrorCount},
+                pwd_error_time = #{item.pwdErrorTime},
+                remark = #{item.remark}
+            </set>
+            <where>
+                id = #{item.id} AND version = #{item.version}
+            </where>
+        </foreach>
+    </update>
+
+    <select id="getById" parameterType="long" resultMap="beanMap">
+        SELECT * FROM
+        <include refid="pms_user"/>
+        WHERE id = #{id}
+    </select>
+
+    <select id="listAll" resultMap="beanMap">
+        SELECT * FROM
+        <include refid="pms_user"/> ORDER BY id
+    </select>
+
+    <select id="findByUserNo" parameterType="string" resultMap="beanMap">
+        SELECT * FROM
+        <include refid="pms_user"/>
+        WHERE user_no= #{userNo}
+    </select>
+
+    <sql id="condition_sql">
+        <if test="mainUserId != null and mainUserId != ''"> main_user_id = #{mainUserId}</if>
+        <if test="status != null and status != ''"> AND status = #{status}</if>
+        <if test="userNo != null and userNo != ''"> AND user_no = #{userNo}</if>
+        <if test="userName != null and userName != ''"> AND user_name LIKE CONCAT('%', #{userName}, '%')</if>
+    </sql>
+
+    <select id="listPage" parameterType="map" resultType="beanMap">
+        SELECT * FROM
+        <include refid="pms_user"/>
+        <where>
+            <include refid="condition_sql"/>
+        </where>
+        ORDER BY id DESC
+        limit #{pageFirst}, #{pageSize}
+    </select>
+
+    <select id="listPageCount" parameterType="map" resultType="long">
+        SELECT count(1) FROM
+        <include refid="pms_user"/>
+        <where>
+            <include refid="condition_sql"/>
+        </where>
+    </select>
+</mapper>
