@@ -1,0 +1,38 @@
+[INFO ][20170710 16:39:32,423][HttpRequestUtil:73] 执行get请求, url: http://localhost:8090/api/articles/publishment%3Fids%3D1001%2C1002%26cids%3D100%2C101%26channelType%3Dweb
+[INFO ][20170710 16:39:32,597][HttpRequestUtil:81] 响应状态码: 404
+[INFO ][20170710 16:39:32,597][HttpRequestUtil:82] 响应内容: 
+
+<html>
+<head>
+    <title>404: Not Found!</title>
+</head>
+<body>
+    404:您所请求的页面不存在！
+</body>
+</html>
+
+[INFO ][20170710 16:42:58,300][HttpRequestUtil:73] 执行get请求, url: http://localhost:8090/api/articles/publishment%3Fids%3D1001%2C1002%26cids%3D100%2C101%26channelType%3Dweb
+[INFO ][20170710 16:42:58,481][HttpRequestUtil:81] 响应状态码: 404
+[INFO ][20170710 16:42:58,481][HttpRequestUtil:82] 响应内容: 
+
+<html>
+<head>
+    <title>404: Not Found!</title>
+</head>
+<body>
+    404:您所请求的页面不存在！
+</body>
+</html>
+
+[INFO ][20170710 16:52:07,098][HttpRequestUtil:87] 执行get请求, url: http://localhost:8090/api/articles/publishment?ids=1001%2C1002&channelType=web&cids=101%2C+103
+[INFO ][20170710 16:52:07,361][HttpRequestUtil:94] 响应状态码: 200
+[INFO ][20170710 16:52:07,361][HttpRequestUtil:95] 响应内容: {"data":{},"message":"Method Not Supported","status":405}
+[INFO ][20170710 16:52:22,675][HttpRequestUtil:87] 执行get请求, url: http://localhost:8090/api/articles/publishment?ids=1001%2C1002&channelType=web&cids=101%2C+103
+[INFO ][20170710 16:52:22,720][HttpRequestUtil:94] 响应状态码: 200
+[INFO ][20170710 16:52:22,721][HttpRequestUtil:95] 响应内容: {"data":{},"message":"Method Not Supported","status":405}
+[INFO ][20170710 16:52:38,898][HttpRequestUtil:87] 执行get请求, url: http://localhost:8090/api/articles/publishment?ids=1001%2C1002&channelType=web&cids=101%2C+103
+[INFO ][20170710 16:52:38,963][HttpRequestUtil:94] 响应状态码: 200
+[INFO ][20170710 16:52:38,963][HttpRequestUtil:95] 响应内容: {"data":{},"message":"Method Not Supported","status":405}
+[INFO ][20170710 16:53:32,192][HttpRequestUtil:87] 执行get请求, url: http://localhost:8090/api/articles/publishment?ids=1001%2C1002&channelType=web&cids=101%2C+103
+[INFO ][20170710 16:53:51,272][HttpRequestUtil:94] 响应状态码: 200
+[INFO ][20170710 16:53:51,272][HttpRequestUtil:95] 响应内容: hello world
