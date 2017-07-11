@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper>
+<mapper namespace="com.kevin.user.dao.PmsUserDao">
 
     <!-- 用户信息表 -->
     <sql id="pms_user">pms_user</sql>
@@ -136,7 +136,7 @@
         <if test="userName != null and userName != ''"> AND user_name LIKE CONCAT('%', #{userName}, '%')</if>
     </sql>
 
-    <select id="listPage" parameterType="map" resultType="beanMap">
+    <select id="listPage" parameterType="map" resultMap="beanMap">
         SELECT * FROM
         <include refid="pms_user"/>
         <where>
