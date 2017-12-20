@@ -41,7 +41,7 @@
     </settings>
 
     <typeAliases>
-        <typeAlias type="com.kevin.user.entity.PmsUser" alias="PmsUser"/>
+        <typeAlias type="com.kevin.entity.PmsUser" alias="PmsUser"/>
     </typeAliases>
 
     <mappers>

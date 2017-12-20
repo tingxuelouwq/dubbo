@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.kevin.dubbo</groupId>
-    <artifactId>common-parent</artifactId>
+    <groupId>com.kevin</groupId>
+    <artifactId>dubbo-common-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
@@ -28,6 +28,21 @@
         <dependencies>
             <!-- Common Dependency Begin -->
             <dependency>
+                <groupId>org.slf4j</groupId>
+                <artifactId>slf4j-api</artifactId>
+                <version>1.7.21</version>
+            </dependency>
+            <dependency>
+                <groupId>log4j</groupId>
+                <artifactId>log4j</artifactId>
+                <version>1.2.17</version>
+            </dependency>
+            <dependency>
+                <groupId>org.slf4j</groupId>
+                <artifactId>slf4j-log4j12</artifactId>
+                <version>1.7.21</version>
+            </dependency>
+            <dependency>
                 <groupId>javax.servlet</groupId>
                 <artifactId>jstl</artifactId>
                 <version>1.2</version>
@@ -38,24 +53,12 @@
                 <version>1.1.2</version>
             </dependency>
             <dependency>
-                <groupId>org.slf4j</groupId>
-                <artifactId>slf4j-log4j12</artifactId>
-                <version>1.7.21</version>
+                <groupId>javax.servlet</groupId>
+                <artifactId>javax.servlet-api</artifactId>
+                <version>3.1.0</version>
+                <scope>provided</scope>
             </dependency>
             <!-- Common Dependency End -->
-
-            <!-- Zookeeper 用于分布式服务管理 -->
-            <dependency>
-                <groupId>org.apache.zookeeper</groupId>
-                <artifactId>zookeeper</artifactId>
-                <version>3.4.5</version>
-            </dependency>
-            <dependency>
-                <groupId>com.101tec</groupId>
-                <artifactId>zkclient</artifactId>
-                <version>0.3</version>
-            </dependency>
-            <!-- Zookeeper 用于分布式服务管理 end -->
 
             <!-- Spring Dependency Begin -->
             <dependency>
@@ -135,102 +138,103 @@
             <dependency>
                 <groupId>org.mybatis</groupId>
                 <artifactId>mybatis</artifactId>
-                <version>3.4.1</version>
+                <version>3.4.5</version>
             </dependency>
             <dependency>
                 <groupId>org.mybatis</groupId>
                 <artifactId>mybatis-spring</artifactId>
-                <version>1.3.0</version>
+                <version>1.3.1</version>
             </dependency>
             <!-- MyBatis Dependency End -->
-
-            <!-- Http相关的依赖 -->
-            <dependency>
-                <groupId>org.apache.httpcomponents</groupId>
-                <artifactId>httpclient</artifactId>
-                <version>4.5.2</version>
-            </dependency>
-            <dependency>
-                <groupId>org.apache.httpcomponents</groupId>
-                <artifactId>httpmime</artifactId>
-                <version>4.5.2</version>
-            </dependency>
-            <!-- Http相关的依赖 -->
 
             <!-- Mysql Driver Begin -->
             <dependency>
                 <groupId>mysql</groupId>
                 <artifactId>mysql-connector-java</artifactId>
-                <version>5.1.40</version>
+                <version>6.0.6</version>
             </dependency>
             <!-- Mysql Driver End -->
 
-            <!-- 上传文件相关的依赖 -->
+            <!-- Connection Pool Dependency Begin -->
+            <dependency>
+                <groupId>com.alibaba</groupId>
+                <artifactId>druid</artifactId>
+                <version>1.1.6</version>
+            </dependency>
+            <!-- Connection Pool Dependency End -->
+
+            <!-- Http Dependency Begin -->
+            <dependency>
+                <groupId>org.apache.httpcomponents</groupId>
+                <artifactId>httpclient</artifactId>
+                <version>4.5.2</version>
+            </dependency>
+            <!-- Http Dependency End -->
+
+            <!-- Upload Dependency Begin -->
             <dependency>
                 <groupId>commons-io</groupId>
                 <artifactId>commons-io</artifactId>
-                <version>2.4</version>
+                <version>2.6</version>
             </dependency>
             <dependency>
                 <groupId>commons-fileupload</groupId>
                 <artifactId>commons-fileupload</artifactId>
                 <version>1.3.1</version>
             </dependency>
-            <!-- 上传文件相关的依赖 -->
+            <!-- Upload Dependency End -->
 
-            <!-- Other Begin -->
-            <dependency>
-                <groupId>com.mchange</groupId>
-                <artifactId>c3p0</artifactId>
-                <version>0.9.5.2</version>
-            </dependency>
-            <dependency>
-                <groupId>com.alibaba</groupId>
-                <artifactId>dubbo</artifactId>
-                <version>2.5.3</version>
-                <!-- dubbo与高版本Spring集成，第一步：排除dubbo自带的2.5的Spring -->
-                <exclusions>
-                    <exclusion>
-                        <groupId>org.springframework</groupId>
-                        <artifactId>spring</artifactId>
-                    </exclusion>
-                    <exclusion>
-                        <groupId>org.jboss.netty</groupId>
-                        <artifactId>netty</artifactId>
-                    </exclusion>
-                </exclusions>
-            </dependency>
-            <dependency>
-                <groupId>redis.clients</groupId>
-                <artifactId>jedis</artifactId>
-                <version>2.4.2</version>
-            </dependency>
+            <!-- Json Dependency Begin -->
             <dependency>
                 <groupId>com.alibaba</groupId>
                 <artifactId>fastjson</artifactId>
-                <version>1.2.31</version>
+                <version>1.2.43</version>
+            </dependency>
+            <!-- Json Dependency End -->
+
+            <!-- Jackson Dependency Begin -->
+            <dependency>
+                <groupId>com.fasterxml.jackson.core</groupId>
+                <artifactId>jackson-databind</artifactId>
+                <version>2.9.2</version>
             </dependency>
             <dependency>
-                <groupId>com.google.code.gson</groupId>
-                <artifactId>gson</artifactId>
-                <version>2.8.0</version>
+                <groupId>com.fasterxml.jackson.core</groupId>
+                <artifactId>jackson-core</artifactId>
+                <version>2.9.2</version>
             </dependency>
             <dependency>
-                <groupId>org.apache.activemq</groupId>
-                <artifactId>activemq-all</artifactId>
-                <version>5.10.0</version>
+                <groupId>com.fasterxml.jackson.core</groupId>
+                <artifactId>jackson-annotations</artifactId>
+                <version>2.9.2</version>
+            </dependency>
+            <!-- Jackson Dependency End -->
+
+            <!-- Dubbo Dependency Begin -->
+            <dependency>
+                <groupId>com.alibaba</groupId>
+                <artifactId>dubbo</artifactId>
+                <version>2.5.8</version>
+            </dependency>
+            <!-- Dubbo Dependency End -->
+
+            <!-- Zookeeper Dependency Begin -->
+            <dependency>
+                <groupId>org.apache.zookeeper</groupId>
+                <artifactId>zookeeper</artifactId>
+                <version>3.4.10</version>
             </dependency>
             <dependency>
-                <groupId>org.apache.activemq</groupId>
-                <artifactId>activemq-pool</artifactId>
-                <version>5.10.0</version>
+                <groupId>com.101tec</groupId>
+                <artifactId>zkclient</artifactId>
+                <version>0.10</version>
             </dependency>
-            <!-- Other End -->
+            <!-- Zookeeper Dependency End -->
         </dependencies>
     </dependencyManagement>
 
     <build>
-        <finalName>common-parent</finalName>
+        <finalName>${project.artifactId}</finalName>
         <pluginManagement>
             <plugins>
                 <plugin>
@@ -239,23 +243,6 @@
                     <configuration>
                         <source>1.8</source>
                         <target>1.8</target>
-                    </configuration>
-                </plugin>
-                <!-- dubbo与高版本Spring集成，第二步：使用Shade插件打包 -->
-                <plugin>
-                    <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-shade-plugin</artifactId>
-                    <configuration>
-                        <transformers>
-                            <!-- 将spring.schema文件以append方式加入到构建的jar包中，这样就不会存在xsd找不到的情况 -->
-                            <transformer implementation="org.apache.maven.plugins.shade.resource.AppendingTransformer">
-                                <resource>META-INF/spring.schemas</resource>
-                            </transformer>
-                            <!-- 将spring.handlers文件以append方式加入到构建的jar包中，这样就不会存在xsd找不到的情况 -->
-                            <transformer implementation="org.apache.maven.plugins.shade.resource.AppendingTransformer">
-                                <resource>META-INF/spring.handlers</resource>
-                            </transformer>
-                        </transformers>
                     </configuration>
                 </plugin>
             </plugins>
