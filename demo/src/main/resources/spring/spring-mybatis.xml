@@ -10,28 +10,27 @@
        http://www.springframework.org/schema/tx
        http://www.springframework.org/schema/tx/spring-tx.xsd">
 
-    <context:property-placeholder location="classpath*:c3p0.properties"/>
+    <context:property-placeholder location="classpath:druid.properties"/>
 
-    <!-- 数据库连接池 -->
-    <bean id="comboPooledDataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">
-        <property name="driverClass" value="${jdbc.driverClass}"/>
-        <property name="jdbcUrl" value="${jdbc.url}"/>
-        <property name="user" value="${jdbc.user}"/>
-        <property name="password" value="${jdbc.password}"/>
-        <property name="initialPoolSize" value="${c3p0.initialPoolSize}"/>
-        <property name="minPoolSize" value="${c3p0.minPoolSize}"/>
-        <property name="maxPoolSize" value="${c3p0.maxPoolSize}"/>
-        <property name="acquireIncrement" value="${c3p0.acquireIncrement}"/>
-        <property name="acquireRetryAttempts" value="${c3p0.acquireRetryAttempts}"/>
-        <property name="acquireRetryDelay" value="${c3p0.acquireRetryDelay}"/>
-        <property name="maxIdleTime" value="${c3p0.maxIdleTime}"/>
-        <property name="preferredTestQuery" value="${c3p0.preferredTestQuery}"/>
-        <property name="idleConnectionTestPeriod" value="${c3p0.idleConnectionTestPeriod}"/>
+    <!-- 基于Druid数据库链接池的数据源配置 -->
+    <bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource" init-method="init" destroy-method="close">
+        <property name="driverClassName" value="${jdbc.driverClass}" />
+        <property name="url" value="${jdbc.url}" />
+        <property name="username" value="${jdbc.username}" />
+        <property name="password" value="${jdbc.password}" />
+        <property name="initialSize" value="${druid.initialSize}" />
+        <property name="minIdle" value="${druid.minIdle}" />
+        <property name="maxActive" value="${druid.maxActive}" />
+        <property name="maxWait" value="${druid.maxWait}" />
+        <property name="testWhileIdle" value="${druid.testWhileIdle}" />
+        <property name="minEvictableIdleTimeMillis" value="${druid.minEvictableIdleTimeMillis}" />
+        <property name="timeBetweenEvictionRunsMillis" value="${druid.timeBetweenEvictionRunsMillis}" />
+        <property name="validationQuery" value="${druid.validationQuery}"/>
     </bean>
 
     <!-- 配置SqlSessionFactory -->
     <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
-        <property name="dataSource" ref="comboPooledDataSource"/>
+        <property name="dataSource" ref="dataSource"/>
         <property name="configLocation" value="classpath:mybatis/mybatis-config.xml"/>
     </bean>
 
@@ -42,9 +41,9 @@
 
     <!-- 配置事务管理器 -->
     <bean id="dataSourceTransactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
-        <property name="dataSource" ref="comboPooledDataSource"/>
+        <property name="dataSource" ref="dataSource"/>
     </bean>
 
     <!-- 启用事务注解 -->
-    <tx:annotation-driven/>
+    <tx:annotation-driven transaction-manager="dataSourceTransactionManager"/>
 </beans>

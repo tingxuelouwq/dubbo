@@ -1,0 +1,51 @@
+.pageContent {
+    width: 600px;
+}
+
+.pageContent table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.pageContent table th,td {
+    border: 1px solid black;
+}
+
+.panelBar {
+    width: 600px;
+    height: 20px;
+    background-color: silver;
+    font-size: 12px;
+}
+
+.panelBar .summary {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.panelBar a {
+    text-decoration: none;
+    color: black;
+}
+
+.panelBar .targetNumBar {
+    background-color: grey;
+}
+
+.panelBar .numBar {
+
+}
+
+.panelBar .goBar {
+    margin-left: 50px;
+}
+
+.panelBar .goNumBar {
+    width: 20px;
+    height: 20px;
+}
+
+.panelBar .stripBar {
+    margin-left: 50px;
+}

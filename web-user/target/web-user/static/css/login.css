@@ -1,0 +1,10 @@
+.content input {
+    margin-top: 4px;
+    border: 1px solid silver;
+    width: 270px;
+}
+
+.content .info {
+    font-size: 12px;
+    color: red;
+}
