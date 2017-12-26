@@ -1,6 +1,6 @@
-package com.kevin.service.user.common.exception;
+package com.kevin.facade.user.common.exception;
 
-import com.kevin.service.user.common.ret.RetJson;
+import com.kevin.facade.user.common.ret.RetJson;
 
 /**
  * @类名: DMLException

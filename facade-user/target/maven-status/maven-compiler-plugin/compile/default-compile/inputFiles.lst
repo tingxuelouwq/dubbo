@@ -1,6 +1,7 @@
 D:\Workspace\dubbo\facade-user\src\main\java\com\kevin\facade\user\common\dao\BaseDao.java
 D:\Workspace\dubbo\facade-user\src\main\java\com\kevin\facade\user\common\util\ImageUtils.java
 D:\Workspace\dubbo\facade-user\src\main\java\com\kevin\facade\user\common\util\JsonUtils.java
+D:\Workspace\dubbo\facade-user\src\main\java\com\kevin\facade\user\common\exception\BaseException.java
 D:\Workspace\dubbo\facade-user\src\main\java\com\kevin\facade\user\common\ret\RetStatusCode.java
 D:\Workspace\dubbo\facade-user\src\main\java\com\kevin\facade\user\common\service\BaseService.java
 D:\Workspace\dubbo\facade-user\src\main\java\com\kevin\facade\user\dao\PmsUserDao.java
