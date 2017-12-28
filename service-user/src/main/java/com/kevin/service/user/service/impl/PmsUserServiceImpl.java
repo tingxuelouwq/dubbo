@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-@Service
+@Service("pmsUserService")
 @Transactional
 public class PmsUserServiceImpl extends BaseServiceImpl<PmsUser> implements PmsUserService {
 

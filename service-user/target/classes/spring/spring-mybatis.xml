@@ -22,9 +22,9 @@
         <property name="minIdle" value="${druid.minIdle}" />
         <property name="maxActive" value="${druid.maxActive}" />
         <property name="maxWait" value="${druid.maxWait}" />
-        <property name="testWhileIdle" value="${druid.testWhileIdle}" />
         <property name="minEvictableIdleTimeMillis" value="${druid.minEvictableIdleTimeMillis}" />
         <property name="timeBetweenEvictionRunsMillis" value="${druid.timeBetweenEvictionRunsMillis}" />
+        <property name="testWhileIdle" value="${druid.testWhileIdle}" />
         <property name="validationQuery" value="${druid.validationQuery}"/>
     </bean>
 

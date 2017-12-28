@@ -30,27 +30,6 @@
 
     <dependencyManagement>
         <dependencies>
-            <!-- Dubbo Dependency Begin -->
-            <dependency>
-                <groupId>com.alibaba</groupId>
-                <artifactId>dubbo</artifactId>
-                <version>2.5.8</version>
-            </dependency>
-            <!-- Dubbo Dependency End -->
-
-            <!-- Zookeeper Dependency Begin -->
-            <dependency>
-                <groupId>org.apache.zookeeper</groupId>
-                <artifactId>zookeeper</artifactId>
-                <version>3.4.10</version>
-            </dependency>
-            <dependency>
-                <groupId>com.101tec</groupId>
-                <artifactId>zkclient</artifactId>
-                <version>0.10</version>
-            </dependency>
-            <!-- Zookeeper Dependency End -->
-
             <!-- Logging Dependency Begin -->
             <dependency>
                 <groupId>org.slf4j</groupId>
@@ -245,6 +224,27 @@
                 <version>1.1.6</version>
             </dependency>
             <!-- Connection Pool Dependency End -->
+
+            <!-- Dubbo Dependency Begin -->
+            <dependency>
+                <groupId>com.alibaba</groupId>
+                <artifactId>dubbo</artifactId>
+                <version>2.5.8</version>
+            </dependency>
+            <!-- Dubbo Dependency End -->
+
+            <!-- Zookeeper Dependency Begin -->
+            <dependency>
+                <groupId>org.apache.zookeeper</groupId>
+                <artifactId>zookeeper</artifactId>
+                <version>3.4.10</version>
+            </dependency>
+            <dependency>
+                <groupId>com.101tec</groupId>
+                <artifactId>zkclient</artifactId>
+                <version>0.10</version>
+            </dependency>
+            <!-- Zookeeper Dependency End -->
         </dependencies>
     </dependencyManagement>
 

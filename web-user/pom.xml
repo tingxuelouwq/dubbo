@@ -23,13 +23,6 @@
             <version>${facade-user.version}</version>
         </dependency>
 
-        <!-- Dubbo Dependency Begin -->
-        <dependency>
-            <groupId>com.alibaba</groupId>
-            <artifactId>dubbo</artifactId>
-        </dependency>
-        <!-- Dubbo Dependency End -->
-
         <!-- Logging Dependency Begin -->
         <dependency>
             <groupId>org.slf4j</groupId>
@@ -107,6 +100,24 @@
             <artifactId>spring-webmvc</artifactId>
         </dependency>
         <!-- Spring Dependency End -->
+
+        <!-- Dubbo Dependency Begin -->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>dubbo</artifactId>
+        </dependency>
+        <!-- Dubbo Dependency End -->
+
+        <!-- Zookeeper Dependency Begin -->
+        <dependency>
+            <groupId>org.apache.zookeeper</groupId>
+            <artifactId>zookeeper</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.101tec</groupId>
+            <artifactId>zkclient</artifactId>
+        </dependency>
+        <!-- Zookeeper Dependency End -->
     </dependencies>
 
     <build>

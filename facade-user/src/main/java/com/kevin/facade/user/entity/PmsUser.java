@@ -52,4 +52,14 @@ public class PmsUser extends BaseEntity {
     public void setMobileNo(String mobileNo) {
         this.mobileNo = mobileNo;
     }
+
+    @Override
+    public String toString() {
+        return "PmsUser{" +
+                "username='" + username + '\'' +
+                ", userPwd='" + userPwd + '\'' +
+                ", email='" + email + '\'' +
+                ", mobileNo='" + mobileNo + '\'' +
+                '}';
+    }
 }
