@@ -1,9 +1,9 @@
 package com.kevin.service.user.service.impl;
 
+import com.kevin.common.service.impl.BaseServiceImpl;
 import com.kevin.facade.user.dao.PmsUserDao;
 import com.kevin.facade.user.entity.PmsUser;
 import com.kevin.facade.user.service.PmsUserService;
-import com.kevin.service.user.common.service.impl.BaseServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

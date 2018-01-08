@@ -10,7 +10,7 @@
     <!-- 使用zookeeper注册中心暴露服务地址 -->
     <!-- 多注册中心配置，竖号分隔表示同时连接多个不同注册中心，同一注册中心的多个集群地址用逗号分隔 -->
     <!-- 注册中心地址 -->
-    <dubbo:registry protocol="zookeeper" address="192.168.204.129:2181"/>
+    <dubbo:registry protocol="zookeeper" address="${dubbo.registry.address}"/>
 
     <!-- 用户服务接口，check=false表示如果服务未启动，则不检查，消费端依然可以正常启动，只有调用服务的时候才检查 -->
     <dubbo:reference id="pmsUserService" interface="com.kevin.facade.user.service.PmsUserService" check="false"/>

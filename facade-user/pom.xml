@@ -21,41 +21,11 @@
     </properties>
 
     <dependencies>
-        <!-- Logging Dependency Begin -->
         <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-api</artifactId>
+            <groupId>com.kevin.dubbo</groupId>
+            <artifactId>common-core</artifactId>
+            <version>${common-core.version}</version>
         </dependency>
-        <dependency>
-            <groupId>log4j</groupId>
-            <artifactId>log4j</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-log4j12</artifactId>
-        </dependency>
-        <!-- Logging Dependency End -->
-
-        <!-- Json Dependency Begin -->
-        <dependency>
-            <groupId>com.alibaba</groupId>
-            <artifactId>fastjson</artifactId>
-        </dependency>
-        <!-- Json Dependency End -->
-
-        <!-- Http Dependency Begin -->
-        <dependency>
-            <groupId>org.apache.httpcomponents</groupId>
-            <artifactId>httpclient</artifactId>
-        </dependency>
-        <!-- Http Dependency End -->
-
-        <!-- ImageUtils Dependency Begin -->
-        <dependency>
-            <groupId>net.coobird</groupId>
-            <artifactId>thumbnailator</artifactId>
-        </dependency>
-        <!-- ImageUtils Dependency Begin -->
     </dependencies>
 
     <build>

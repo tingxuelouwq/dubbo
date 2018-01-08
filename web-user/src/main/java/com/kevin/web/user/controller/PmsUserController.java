@@ -1,7 +1,8 @@
 package com.kevin.web.user.controller;
 
-import com.kevin.facade.user.common.page.PageBean;
-import com.kevin.facade.user.common.page.PageParam;
+import com.kevin.common.controller.BaseController;
+import com.kevin.common.page.PageBean;
+import com.kevin.common.page.PageParam;
 import com.kevin.facade.user.service.PmsUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -10,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
 @Controller
-public class PmsUserController {
+public class PmsUserController extends BaseController {
 
     @Autowired
     private PmsUserService pmsUserService;

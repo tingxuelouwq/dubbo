@@ -7,7 +7,10 @@
           <element id="module-output" name="service-user" />
         </element>
         <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.kevin.dubbo:common-config:1.0-SNAPSHOT" />
           <element id="library" level="project" name="Maven: com.kevin.dubbo:facade-user:1.0-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.kevin.dubbo:common-core:1.0-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.kevin.dubbo:common:1.0-SNAPSHOT" />
           <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.43" />
           <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.2" />
           <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.4" />

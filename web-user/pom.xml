@@ -19,6 +19,18 @@
     <dependencies>
         <dependency>
             <groupId>com.kevin.dubbo</groupId>
+            <artifactId>common-config</artifactId>
+            <version>${common-config.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.kevin.dubbo</groupId>
+            <artifactId>common-web</artifactId>
+            <version>${common-web.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.kevin.dubbo</groupId>
             <artifactId>facade-user</artifactId>
             <version>${facade-user.version}</version>
         </dependency>

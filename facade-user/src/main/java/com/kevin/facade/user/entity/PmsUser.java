@@ -1,6 +1,6 @@
 package com.kevin.facade.user.entity;
 
-import com.kevin.facade.user.common.entity.BaseEntity;
+import com.kevin.common.entity.BaseEntity;
 
 /**
  * @class: PmsUser

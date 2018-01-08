@@ -11,10 +11,18 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
         <demo.version>1.0-SNAPSHOT</demo.version>
+
+        <common.version>1.0-SNAPSHOT</common.version>
+        <common-config.version>1.0-SNAPSHOT</common-config.version>
+        <common-core.version>1.0-SNAPSHOT</common-core.version>
+        <common-web.version>1.0-SNAPSHOT</common-web.version>
+
         <facade-user.version>1.0-SNAPSHOT</facade-user.version>
         <service-user.version>1.0-SNAPSHOT</service-user.version>
         <web-user.version>1.0-SNAPSHOT</web-user.version>
+
         <org.springframework.version>4.3.9.RELEASE</org.springframework.version>
     </properties>
 

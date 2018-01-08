@@ -1,6 +1,7 @@
 package com.kevin.web.user.controller;
 
-import com.kevin.facade.user.common.util.StringUtils;
+import com.kevin.common.controller.BaseController;
+import com.kevin.common.util.StringUtils;
 import com.kevin.facade.user.entity.PmsUser;
 import com.kevin.facade.user.service.PmsUserService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
 @Controller
-public class LoginController {
+public class LoginController extends BaseController {
 
     @Autowired
     private PmsUserService pmsUserService;

@@ -1,0 +1,4 @@
+com\kevin\common\dao\BaseDao.class
+com\kevin\common\service\impl\BaseServiceImpl.class
+com\kevin\common\service\BaseService.class
+com\kevin\common\dao\impl\BaseDaoImpl.class

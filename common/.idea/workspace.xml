@@ -1,7 +1,217 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fef392d3-9a06-4e55-8fa9-c96a4cea88f0" name="Default" comment="" />
+    <list default="true" id="fef392d3-9a06-4e55-8fa9-c96a4cea88f0" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/common-config.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/src/main/resources/service.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__com_alibaba_fastjson_1_2_43.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__com_kevin_dubbo_common_1_0_SNAPSHOT.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__net_coobird_thumbnailator_0_4_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_aop_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_beans_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_context_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_core_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_expression_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_jms_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_orm_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_test_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_tx_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_web_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/common-core.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-parent/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__com_alibaba_fastjson_1_2_43.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__com_kevin_dubbo_common_1_0_SNAPSHOT.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__net_coobird_thumbnailator_0_4_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_springframework_spring_aop_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_springframework_spring_beans_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_springframework_spring_context_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_springframework_spring_core_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_springframework_spring_expression_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_springframework_spring_test_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_springframework_spring_web_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/common-web.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_43.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_coobird_thumbnailator_0_4_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__com_kevin_dubbo_common_1_0_SNAPSHOT.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__com_kevin_dubbo_common_core_1_0_SNAPSHOT.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_aop_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_beans_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_context_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_core_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_expression_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_jms_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_orm_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_tx_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../service-user/.idea/libraries/Maven__com_kevin_dubbo_common_1_0_SNAPSHOT.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../service-user/.idea/libraries/Maven__com_kevin_dubbo_common_config_1_0_SNAPSHOT.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../service-user/.idea/libraries/Maven__com_kevin_dubbo_common_core_1_0_SNAPSHOT.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__com_kevin_dubbo_common_1_0_SNAPSHOT.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__com_kevin_dubbo_common_config_1_0_SNAPSHOT.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__com_kevin_dubbo_common_core_1_0_SNAPSHOT.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__com_kevin_dubbo_common_web_1_0_SNAPSHOT.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_springframework_spring_jms_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_springframework_spring_orm_4_3_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_springframework_spring_tx_4_3_9_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/../common-parent/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../common-parent/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../common-parent/pom.xml" afterPath="$PROJECT_DIR$/../common-parent/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/common.iml" afterPath="$PROJECT_DIR$/common.iml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../facade-user/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/facade-user.iml" afterPath="$PROJECT_DIR$/../facade-user/facade-user.iml" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/pom.xml" afterPath="$PROJECT_DIR$/../facade-user/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/dao/BaseDao.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/entity/BaseEntity.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/common/entity/BaseEntity.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/exception/BaseException.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/common/exception/BaseException.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/page/PageBean.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/common/page/PageBean.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/page/PageParam.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/common/page/PageParam.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/ret/RetFormat.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/common/ret/RetFormat.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/ret/RetJson.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/common/ret/RetJson.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/ret/RetStatusCode.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/common/ret/RetStatusCode.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/service/BaseService.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/util/CollectionUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/common/util/CollectionUtils.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/util/FileUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/common/util/FileUtils.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/util/HttpUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/common/util/HttpUtils.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/util/IdGeneratorUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/common/util/IdGeneratorUtils.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/util/ImageUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/common/util/ImageUtils.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/util/JsonUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/common/util/JsonUtils.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/util/ProcessUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/common/util/ProcessUtils.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/util/StringUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/common/util/StringUtils.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/util/TimeUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/common/util/TimeUtils.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/dao/PmsUserDao.java" afterPath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/dao/PmsUserDao.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/entity/PmsUser.java" afterPath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/entity/PmsUser.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/service/PmsUserService.java" afterPath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/service/PmsUserService.java" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/dao/BaseDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/entity/BaseEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/exception/BaseException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/page/PageBean.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/page/PageParam.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/ret/RetFormat.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/ret/RetJson.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/ret/RetStatusCode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/service/BaseService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/CollectionUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/FileUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/HttpUtils$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/HttpUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/IdGeneratorUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/ImageUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/JsonUtils$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/JsonUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/ProcessUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/StringUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/TimeUtils$TimeFormat.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/TimeUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/dao/PmsUserDao.class" afterPath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/dao/PmsUserDao.class" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/entity/PmsUser.class" afterPath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/entity/PmsUser.class" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/service/PmsUserService.class" afterPath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/service/PmsUserService.class" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/facade-user.jar" afterPath="$PROJECT_DIR$/../facade-user/target/facade-user.jar" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/../facade-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../facade-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/../service-user/.idea/artifacts/service_user_war_exploded.xml" afterPath="$PROJECT_DIR$/../service-user/.idea/artifacts/service_user_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/../service-user/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../service-user/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../service-user/pom.xml" afterPath="$PROJECT_DIR$/../service-user/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/../service-user/service-user.iml" afterPath="$PROJECT_DIR$/../service-user/service-user.iml" />
+      <change beforePath="$PROJECT_DIR$/../service-user/src/main/java/com/kevin/service/user/common/dao/impl/BaseDaoImpl.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../service-user/src/main/java/com/kevin/service/user/common/service/impl/BaseServiceImpl.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../service-user/src/main/java/com/kevin/service/user/dao/impl/PmsUserDaoImpl.java" afterPath="$PROJECT_DIR$/../service-user/src/main/java/com/kevin/service/user/dao/impl/PmsUserDaoImpl.java" />
+      <change beforePath="$PROJECT_DIR$/../service-user/src/main/java/com/kevin/service/user/service/impl/PmsUserServiceImpl.java" afterPath="$PROJECT_DIR$/../service-user/src/main/java/com/kevin/service/user/service/impl/PmsUserServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/../service-user/src/main/resources/druid.properties" afterPath="$PROJECT_DIR$/../common-config/src/main/resources/druid.properties" />
+      <change beforePath="$PROJECT_DIR$/../service-user/src/main/resources/spring/dubbo-provider.xml" afterPath="$PROJECT_DIR$/../service-user/src/main/resources/spring/dubbo-provider.xml" />
+      <change beforePath="$PROJECT_DIR$/../service-user/src/main/resources/spring/spring-context.xml" afterPath="$PROJECT_DIR$/../service-user/src/main/resources/spring/spring-context.xml" />
+      <change beforePath="$PROJECT_DIR$/../service-user/src/main/resources/spring/spring-mybatis.xml" afterPath="$PROJECT_DIR$/../service-user/src/main/resources/spring/spring-mybatis.xml" />
+      <change beforePath="$PROJECT_DIR$/../web-user/.idea/artifacts/web_user_war_exploded.xml" afterPath="$PROJECT_DIR$/../web-user/.idea/artifacts/web_user_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/../web-user/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../web-user/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../web-user/pom.xml" afterPath="$PROJECT_DIR$/../web-user/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/../web-user/src/main/java/com/kevin/web/user/common/controller/BaseController.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../web-user/src/main/java/com/kevin/web/user/common/exceptionhandler/BaseExceptionHandler.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../web-user/src/main/java/com/kevin/web/user/controller/LoginController.java" afterPath="$PROJECT_DIR$/../web-user/src/main/java/com/kevin/web/user/controller/LoginController.java" />
+      <change beforePath="$PROJECT_DIR$/../web-user/src/main/java/com/kevin/web/user/controller/PmsUserController.java" afterPath="$PROJECT_DIR$/../web-user/src/main/java/com/kevin/web/user/controller/PmsUserController.java" />
+      <change beforePath="$PROJECT_DIR$/../web-user/src/main/resources/spring/dubbo-consumer.xml" afterPath="$PROJECT_DIR$/../web-user/src/main/resources/spring/dubbo-consumer.xml" />
+      <change beforePath="$PROJECT_DIR$/../web-user/src/main/resources/spring/spring-context.xml" afterPath="$PROJECT_DIR$/../web-user/src/main/resources/spring/spring-context.xml" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/classes/com/kevin/web/user/common/controller/BaseController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/classes/com/kevin/web/user/common/exceptionhandler/BaseExceptionHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/classes/com/kevin/web/user/controller/LoginController.class" afterPath="$PROJECT_DIR$/../web-user/target/classes/com/kevin/web/user/controller/LoginController.class" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/classes/com/kevin/web/user/controller/PmsUserController.class" afterPath="$PROJECT_DIR$/../web-user/target/classes/com/kevin/web/user/controller/PmsUserController.class" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/classes/spring/dubbo-consumer.xml" afterPath="$PROJECT_DIR$/../web-user/target/classes/spring/dubbo-consumer.xml" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/classes/spring/spring-context.xml" afterPath="$PROJECT_DIR$/../web-user/target/classes/spring/spring-context.xml" />
+      <change beforePath="$PROJECT_DIR$/../web-user/web-user.iml" afterPath="$PROJECT_DIR$/../web-user/web-user.iml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,12 +222,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="657">
+              <caret line="75" column="10" lean-forward="false" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/common/util/HttpUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -25,9 +245,22 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/kevin/common/ret/RetFormat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kevin/common/ret/RetJson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kevin/common/exception/BaseException.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -48,8 +281,25 @@
       <MavenImportingSettings>
         <option name="downloadDocsAutomatically" value="true" />
         <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1272" />
@@ -103,6 +353,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -118,9 +371,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,11 +391,72 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="ret" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,6 +467,12 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../common-core/pom.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspace\dubbo\common\src\main\java\com\kevin\common" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -263,43 +582,47 @@
       <option name="presentableId" value="Default" />
       <updated>1514472873878</updated>
       <workItem from="1514472875758" duration="612000" />
+      <workItem from="1515075288407" duration="2213000" />
+      <workItem from="1515078717661" duration="182000" />
+      <workItem from="1515419929673" duration="1204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="612000" />
+    <option name="totallyTimeSpent" value="4211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26126608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,6 +640,138 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/common/util/HttpUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/common/util/HttpUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/common/util/ProcessUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/common/util/TimeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/common/util/IdGeneratorUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/common/util/ImageUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/common/util/JsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/common/ret/RetJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="64" column="20" lean-forward="false" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/common/ret/RetFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/common/ret/RetStatusCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/common/page/PageBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/common/page/PageParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/common/exception/BaseException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/common/entity/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/common/util/HttpUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="75" column="10" lean-forward="false" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
           <folding />
         </state>
       </provider>
