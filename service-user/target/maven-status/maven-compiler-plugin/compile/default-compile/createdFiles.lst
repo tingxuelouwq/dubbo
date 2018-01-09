@@ -1,9 +1,2 @@
-com\kevin\service\user\common\exception\BaseException.class
-com\kevin\service\user\common\exceptionhandler\BaseExceptionHandler.class
-com\kevin\service\user\common\ret\RetFormat.class
-com\kevin\service\user\common\service\impl\BaseServiceImpl.class
 com\kevin\service\user\dao\impl\PmsUserDaoImpl.class
 com\kevin\service\user\service\impl\PmsUserServiceImpl.class
-com\kevin\service\user\common\dao\impl\BaseDaoImpl.class
-com\kevin\service\user\common\ret\RetStatusCode.class
-com\kevin\service\user\common\ret\RetJson.class

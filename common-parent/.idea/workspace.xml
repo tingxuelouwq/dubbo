@@ -2,215 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40dbbca5-137b-40ce-b65f-9c5b02543152" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/common-config.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-config/src/main/resources/service.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__com_alibaba_fastjson_1_2_43.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__com_kevin_dubbo_common_1_0_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__net_coobird_thumbnailator_0_4_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_aop_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_beans_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_context_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_core_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_expression_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_jms_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_orm_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_test_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_tx_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_web_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-core/common-core.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__com_alibaba_fastjson_1_2_43.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__com_kevin_dubbo_common_1_0_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__net_coobird_thumbnailator_0_4_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_springframework_spring_aop_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_springframework_spring_beans_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_springframework_spring_context_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_springframework_spring_core_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_springframework_spring_expression_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_springframework_spring_test_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_springframework_spring_web_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common-web/common-web.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common/.idea/libraries/Maven__com_alibaba_fastjson_1_2_43.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common/.idea/libraries/Maven__net_coobird_thumbnailator_0_4_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../common/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__com_kevin_dubbo_common_1_0_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__com_kevin_dubbo_common_core_1_0_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_aop_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_beans_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_context_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_core_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_expression_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_jms_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_orm_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../facade-user/.idea/libraries/Maven__org_springframework_spring_tx_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../service-user/.idea/libraries/Maven__com_kevin_dubbo_common_1_0_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../service-user/.idea/libraries/Maven__com_kevin_dubbo_common_config_1_0_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../service-user/.idea/libraries/Maven__com_kevin_dubbo_common_core_1_0_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__com_kevin_dubbo_common_1_0_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__com_kevin_dubbo_common_config_1_0_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__com_kevin_dubbo_common_core_1_0_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__com_kevin_dubbo_common_web_1_0_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_springframework_spring_jms_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_springframework_spring_orm_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_springframework_spring_tx_4_3_9_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/../common-config/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../common-config/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../common-config/src/main/resources/service.properties" afterPath="$PROJECT_DIR$/../common-config/src/main/resources/service.properties" />
+      <change beforePath="$PROJECT_DIR$/../common-config/target/classes/service.properties" afterPath="$PROJECT_DIR$/../common-config/target/classes/service.properties" />
+      <change beforePath="$PROJECT_DIR$/../common-config/target/common-config.jar" afterPath="$PROJECT_DIR$/../common-config/target/common-config.jar" />
+      <change beforePath="$PROJECT_DIR$/../common-core/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../common-core/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/../common-core/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/../common-core/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="$PROJECT_DIR$/../common-core/.idea/misc.xml" afterPath="$PROJECT_DIR$/../common-core/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/../common-core/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../common-core/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../common-core/common-core.iml" afterPath="$PROJECT_DIR$/../common-core/common-core.iml" />
+      <change beforePath="$PROJECT_DIR$/../common-core/target/common-core.jar" afterPath="$PROJECT_DIR$/../common-core/target/common-core.jar" />
+      <change beforePath="$PROJECT_DIR$/../common-core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../common-core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/../common/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../common/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/../common-web/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../common-web/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/../common-web/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/../common-web/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="$PROJECT_DIR$/../common-web/.idea/misc.xml" afterPath="$PROJECT_DIR$/../common-web/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/../common-web/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../common-web/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../common-web/common-web.iml" afterPath="$PROJECT_DIR$/../common-web/common-web.iml" />
+      <change beforePath="$PROJECT_DIR$/../common-web/target/common-web.jar" afterPath="$PROJECT_DIR$/../common-web/target/common-web.jar" />
+      <change beforePath="$PROJECT_DIR$/../common-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../common-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/../common/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../common/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/../common/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/../common/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="$PROJECT_DIR$/../common/.idea/misc.xml" afterPath="$PROJECT_DIR$/../common/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/../common/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../common/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../common/common.iml" afterPath="$PROJECT_DIR$/../common/common.iml" />
-      <change beforePath="$PROJECT_DIR$/../common/pom.xml" afterPath="$PROJECT_DIR$/../common/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/../common/target/common.jar" afterPath="$PROJECT_DIR$/../common/target/common.jar" />
+      <change beforePath="$PROJECT_DIR$/../common/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../common/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/../common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/../common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../facade-user/.idea/misc.xml" afterPath="$PROJECT_DIR$/../facade-user/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/../facade-user/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../facade-user/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../facade-user/facade-user.iml" afterPath="$PROJECT_DIR$/../facade-user/facade-user.iml" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/pom.xml" afterPath="$PROJECT_DIR$/../facade-user/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/dao/BaseDao.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/entity/BaseEntity.java" afterPath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/entity/BaseEntity.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/exception/BaseException.java" afterPath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/exception/BaseException.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/page/PageBean.java" afterPath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/page/PageBean.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/page/PageParam.java" afterPath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/page/PageParam.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/ret/RetFormat.java" afterPath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/ret/RetFormat.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/ret/RetJson.java" afterPath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/ret/RetJson.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/ret/RetStatusCode.java" afterPath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/ret/RetStatusCode.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/service/BaseService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/util/CollectionUtils.java" afterPath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/util/CollectionUtils.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/util/FileUtils.java" afterPath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/util/FileUtils.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/util/HttpUtils.java" afterPath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/util/HttpUtils.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/util/IdGeneratorUtils.java" afterPath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/util/IdGeneratorUtils.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/util/ImageUtils.java" afterPath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/util/ImageUtils.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/util/JsonUtils.java" afterPath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/util/JsonUtils.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/util/ProcessUtils.java" afterPath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/util/ProcessUtils.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/util/StringUtils.java" afterPath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/util/StringUtils.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/common/util/TimeUtils.java" afterPath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/util/TimeUtils.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/dao/PmsUserDao.java" afterPath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/dao/PmsUserDao.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/entity/PmsUser.java" afterPath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/entity/PmsUser.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/service/PmsUserService.java" afterPath="$PROJECT_DIR$/../facade-user/src/main/java/com/kevin/facade/user/service/PmsUserService.java" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/dao/BaseDao.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/entity/BaseEntity.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/exception/BaseException.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/page/PageBean.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/page/PageParam.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/ret/RetFormat.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/ret/RetJson.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/ret/RetStatusCode.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/service/BaseService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/CollectionUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/FileUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/HttpUtils$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/HttpUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/IdGeneratorUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/ImageUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/JsonUtils$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/JsonUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/ProcessUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/StringUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/TimeUtils$TimeFormat.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/common/util/TimeUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/dao/PmsUserDao.class" afterPath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/dao/PmsUserDao.class" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/entity/PmsUser.class" afterPath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/entity/PmsUser.class" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/service/PmsUserService.class" afterPath="$PROJECT_DIR$/../facade-user/target/classes/com/kevin/facade/user/service/PmsUserService.class" />
       <change beforePath="$PROJECT_DIR$/../facade-user/target/facade-user.jar" afterPath="$PROJECT_DIR$/../facade-user/target/facade-user.jar" />
-      <change beforePath="$PROJECT_DIR$/../facade-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/../facade-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
       <change beforePath="$PROJECT_DIR$/../facade-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../facade-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/../service-user/.idea/artifacts/service_user_war_exploded.xml" afterPath="$PROJECT_DIR$/../service-user/.idea/artifacts/service_user_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/../service-user/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" afterPath="$PROJECT_DIR$/../service-user/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" />
+      <change beforePath="$PROJECT_DIR$/../service-user/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" afterPath="$PROJECT_DIR$/../service-user/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" />
+      <change beforePath="$PROJECT_DIR$/../service-user/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterPath="$PROJECT_DIR$/../service-user/.idea/libraries/Maven__jline_jline_0_9_94.xml" />
+      <change beforePath="$PROJECT_DIR$/../service-user/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_10.xml" afterPath="$PROJECT_DIR$/../service-user/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_10.xml" />
+      <change beforePath="$PROJECT_DIR$/../service-user/.idea/uiDesigner.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../service-user/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../service-user/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../service-user/pom.xml" afterPath="$PROJECT_DIR$/../service-user/pom.xml" />
       <change beforePath="$PROJECT_DIR$/../service-user/service-user.iml" afterPath="$PROJECT_DIR$/../service-user/service-user.iml" />
-      <change beforePath="$PROJECT_DIR$/../service-user/src/main/java/com/kevin/service/user/common/dao/impl/BaseDaoImpl.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../service-user/src/main/java/com/kevin/service/user/common/service/impl/BaseServiceImpl.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../service-user/src/main/java/com/kevin/service/user/dao/impl/PmsUserDaoImpl.java" afterPath="$PROJECT_DIR$/../service-user/src/main/java/com/kevin/service/user/dao/impl/PmsUserDaoImpl.java" />
-      <change beforePath="$PROJECT_DIR$/../service-user/src/main/java/com/kevin/service/user/service/impl/PmsUserServiceImpl.java" afterPath="$PROJECT_DIR$/../service-user/src/main/java/com/kevin/service/user/service/impl/PmsUserServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/../service-user/src/main/resources/druid.properties" afterPath="$PROJECT_DIR$/../common-config/src/main/resources/druid.properties" />
-      <change beforePath="$PROJECT_DIR$/../service-user/src/main/resources/spring/dubbo-provider.xml" afterPath="$PROJECT_DIR$/../service-user/src/main/resources/spring/dubbo-provider.xml" />
-      <change beforePath="$PROJECT_DIR$/../service-user/src/main/resources/spring/spring-context.xml" afterPath="$PROJECT_DIR$/../service-user/src/main/resources/spring/spring-context.xml" />
-      <change beforePath="$PROJECT_DIR$/../service-user/src/main/resources/spring/spring-mybatis.xml" afterPath="$PROJECT_DIR$/../service-user/src/main/resources/spring/spring-mybatis.xml" />
-      <change beforePath="$PROJECT_DIR$/../web-user/.idea/artifacts/web_user_war_exploded.xml" afterPath="$PROJECT_DIR$/../web-user/.idea/artifacts/web_user_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" />
+      <change beforePath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" />
+      <change beforePath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__jline_jline_0_9_94.xml" />
+      <change beforePath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_10.xml" afterPath="$PROJECT_DIR$/../web-user/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_10.xml" />
       <change beforePath="$PROJECT_DIR$/../web-user/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../web-user/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../web-user/pom.xml" afterPath="$PROJECT_DIR$/../web-user/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/../web-user/src/main/java/com/kevin/web/user/common/controller/BaseController.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../web-user/src/main/java/com/kevin/web/user/common/exceptionhandler/BaseExceptionHandler.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../web-user/src/main/java/com/kevin/web/user/controller/LoginController.java" afterPath="$PROJECT_DIR$/../web-user/src/main/java/com/kevin/web/user/controller/LoginController.java" />
-      <change beforePath="$PROJECT_DIR$/../web-user/src/main/java/com/kevin/web/user/controller/PmsUserController.java" afterPath="$PROJECT_DIR$/../web-user/src/main/java/com/kevin/web/user/controller/PmsUserController.java" />
-      <change beforePath="$PROJECT_DIR$/../web-user/src/main/resources/spring/dubbo-consumer.xml" afterPath="$PROJECT_DIR$/../web-user/src/main/resources/spring/dubbo-consumer.xml" />
       <change beforePath="$PROJECT_DIR$/../web-user/src/main/resources/spring/spring-context.xml" afterPath="$PROJECT_DIR$/../web-user/src/main/resources/spring/spring-context.xml" />
-      <change beforePath="$PROJECT_DIR$/../web-user/target/classes/com/kevin/web/user/common/controller/BaseController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../web-user/target/classes/com/kevin/web/user/common/exceptionhandler/BaseExceptionHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../web-user/target/classes/com/kevin/web/user/controller/LoginController.class" afterPath="$PROJECT_DIR$/../web-user/target/classes/com/kevin/web/user/controller/LoginController.class" />
-      <change beforePath="$PROJECT_DIR$/../web-user/target/classes/com/kevin/web/user/controller/PmsUserController.class" afterPath="$PROJECT_DIR$/../web-user/target/classes/com/kevin/web/user/controller/PmsUserController.class" />
-      <change beforePath="$PROJECT_DIR$/../web-user/target/classes/spring/dubbo-consumer.xml" afterPath="$PROJECT_DIR$/../web-user/target/classes/spring/dubbo-consumer.xml" />
+      <change beforePath="$PROJECT_DIR$/../web-user/src/test/java/com/kevin/dubbo/DubboConsumer.java" afterPath="$PROJECT_DIR$/../web-user/src/test/java/com/kevin/dubbo/DubboConsumer.java" />
       <change beforePath="$PROJECT_DIR$/../web-user/target/classes/spring/spring-context.xml" afterPath="$PROJECT_DIR$/../web-user/target/classes/spring/spring-context.xml" />
-      <change beforePath="$PROJECT_DIR$/../web-user/web-user.iml" afterPath="$PROJECT_DIR$/../web-user/web-user.iml" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/../web-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../web-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/test-classes/com/kevin/dubbo/DubboConsumer.class" afterPath="$PROJECT_DIR$/../web-user/target/test-classes/com/kevin/dubbo/DubboConsumer.class" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/classes/com/kevin/web/user/controller/LoginController.class" afterPath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/classes/com/kevin/web/user/controller/LoginController.class" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/classes/com/kevin/web/user/controller/PmsUserController.class" afterPath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/classes/com/kevin/web/user/controller/PmsUserController.class" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/classes/spring/dubbo-consumer.xml" afterPath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/classes/spring/dubbo-consumer.xml" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/classes/spring/spring-context.xml" afterPath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/classes/spring/spring-context.xml" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/lib/facade-user-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/lib/facade-user-1.0-SNAPSHOT.jar" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -228,7 +76,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
+            <state relative-caret-position="289">
               <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
               <folding />
             </state>
@@ -296,7 +144,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1272" />
     <option name="y" value="-8" />
     <option name="width" value="1296" />
@@ -513,6 +361,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -524,10 +376,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -537,7 +385,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../facade-user/pom.xml" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -715,14 +563,15 @@
       <workItem from="1514425630103" duration="616000" />
       <workItem from="1515071684377" duration="2560000" />
       <workItem from="1515419959830" duration="1286000" />
+      <workItem from="1515461846627" duration="1385000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4462000" />
+    <option name="totallyTimeSpent" value="5847000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="1272" y="-8" width="1296" height="1000" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -730,13 +579,13 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26132685" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -745,8 +594,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -776,6 +625,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5658">
           <caret line="246" column="45" lean-forward="false" selection-start-line="235" selection-start-column="11" selection-end-line="246" selection-end-column="45" />
           <folding />
@@ -784,7 +641,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="289">
           <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
           <folding />
         </state>

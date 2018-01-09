@@ -1,5 +1,2 @@
 com\kevin\web\user\controller\PmsUserController.class
-com\kevin\web\user\common\exception\BaseException.class
-com\kevin\web\user\common\controller\BaseController.class
-com\kevin\web\user\common\exceptionhandler\BaseExceptionHandler.class
 com\kevin\web\user\controller\LoginController.class

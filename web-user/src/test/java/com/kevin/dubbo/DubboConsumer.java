@@ -15,7 +15,7 @@ public class DubboConsumer {
 
     public static void main(String[] args) {
         try {
-            ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("classpath:spring/dubbo-consumer.xml");
+            ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("classpath:spring/spring-context.xml");
             context.start();
 
             PmsUserService pmsUserService = (PmsUserService) context.getBean("pmsUserService");
