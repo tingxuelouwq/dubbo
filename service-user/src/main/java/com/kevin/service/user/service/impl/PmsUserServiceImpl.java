@@ -1,6 +1,6 @@
 package com.kevin.service.user.service.impl;
 
-import com.kevin.common.service.impl.BaseServiceImpl;
+import com.kevin.common.core.service.impl.BaseServiceImpl;
 import com.kevin.facade.user.dao.PmsUserDao;
 import com.kevin.facade.user.entity.PmsUser;
 import com.kevin.facade.user.service.PmsUserService;

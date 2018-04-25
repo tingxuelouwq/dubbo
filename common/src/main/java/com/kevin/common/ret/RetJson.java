@@ -1,6 +1,6 @@
 package com.kevin.common.ret;
 
-import com.kevin.common.util.JsonUtils;
+import com.fasterxml.jackson.annotation.JsonInclude;
 
 import java.io.Serializable;
 
@@ -18,16 +18,19 @@ public class RetJson implements Serializable {
     /**
      * 状态码
      **/
+    @JsonInclude(JsonInclude.Include.NON_NULL)
     private int code;
 
     /**
      * 提示信息
      **/
+    @JsonInclude(JsonInclude.Include.NON_NULL)
     private String message;
 
     /**
      * 业务数据
      **/
+    @JsonInclude(JsonInclude.Include.NON_NULL)
     private Object data;
 
     public RetJson(int code, String message, Object data) {
@@ -58,10 +61,5 @@ public class RetJson implements Serializable {
 
     public void setData(Object data) {
         this.data = data;
-    }
-
-    @Override
-    public String toString() {
-        return JsonUtils.bean2Json(this);
     }
 }

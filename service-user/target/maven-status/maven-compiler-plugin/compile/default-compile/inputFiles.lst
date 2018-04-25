@@ -1,9 +1,2 @@
 D:\Workspace\dubbo\service-user\src\main\java\com\kevin\service\user\service\impl\PmsUserServiceImpl.java
-D:\Workspace\dubbo\service-user\src\main\java\com\kevin\service\user\common\dao\impl\BaseDaoImpl.java
-D:\Workspace\dubbo\service-user\src\main\java\com\kevin\service\user\common\ret\RetStatusCode.java
-D:\Workspace\dubbo\service-user\src\main\java\com\kevin\service\user\common\exception\BaseException.java
-D:\Workspace\dubbo\service-user\src\main\java\com\kevin\service\user\common\service\impl\BaseServiceImpl.java
 D:\Workspace\dubbo\service-user\src\main\java\com\kevin\service\user\dao\impl\PmsUserDaoImpl.java
-D:\Workspace\dubbo\service-user\src\main\java\com\kevin\service\user\common\exceptionhandler\BaseExceptionHandler.java
-D:\Workspace\dubbo\service-user\src\main\java\com\kevin\service\user\common\ret\RetFormat.java
-D:\Workspace\dubbo\service-user\src\main\java\com\kevin\service\user\common\ret\RetJson.java

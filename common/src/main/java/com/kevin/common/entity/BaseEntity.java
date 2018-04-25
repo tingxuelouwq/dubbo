@@ -21,13 +21,13 @@ public class BaseEntity implements Serializable {
 
     /**
      * 版本号
-     **/
-    private Integer version = 0;
+     */
+    private Integer version = 1;
 
     /**
      * 创建时间
      **/
-    private Date createTime;
+    private Date createTime = new Date();
 
     public BaseEntity() {
     }

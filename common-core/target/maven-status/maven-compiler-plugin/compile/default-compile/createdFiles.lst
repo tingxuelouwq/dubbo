@@ -1,4 +1,4 @@
-com\kevin\common\dao\BaseDao.class
-com\kevin\common\service\impl\BaseServiceImpl.class
-com\kevin\common\service\BaseService.class
-com\kevin\common\dao\impl\BaseDaoImpl.class
+com\kevin\common\core\dao\BaseDao.class
+com\kevin\common\core\dao\impl\BaseDaoImpl.class
+com\kevin\common\core\service\impl\BaseServiceImpl.class
+com\kevin\common\core\service\BaseService.class

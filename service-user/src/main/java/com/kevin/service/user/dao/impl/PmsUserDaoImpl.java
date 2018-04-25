@@ -1,6 +1,6 @@
 package com.kevin.service.user.dao.impl;
 
-import com.kevin.common.dao.impl.BaseDaoImpl;
+import com.kevin.common.core.dao.impl.BaseDaoImpl;
 import com.kevin.facade.user.dao.PmsUserDao;
 import com.kevin.facade.user.entity.PmsUser;
 import org.springframework.stereotype.Repository;

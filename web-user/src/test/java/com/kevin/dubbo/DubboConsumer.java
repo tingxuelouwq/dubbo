@@ -21,6 +21,9 @@ public class DubboConsumer {
             PmsUserService pmsUserService = (PmsUserService) context.getBean("pmsUserService");
             PmsUser pmsUser = pmsUserService.getByUsername("admin");
             System.out.println(pmsUser);
+
+            // press any key to exit
+            System.in.read();
         } catch (Exception e) {
             logger.error("== DubboConsumer context start error: ", e);
         }

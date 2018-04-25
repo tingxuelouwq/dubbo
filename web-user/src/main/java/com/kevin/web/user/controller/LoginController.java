@@ -1,7 +1,7 @@
 package com.kevin.web.user.controller;
 
-import com.kevin.common.controller.BaseController;
-import com.kevin.common.util.StringUtils;
+import com.kevin.common.web.controller.BaseController;
+import com.kevin.common.util.StringUtil;
 import com.kevin.facade.user.entity.PmsUser;
 import com.kevin.facade.user.service.PmsUserService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -20,8 +20,8 @@ public class LoginController extends BaseController {
     public ModelAndView login(@RequestParam("username") String username,
                               @RequestParam("userPwd") String userPwd) {
         ModelAndView modelAndView = new ModelAndView("login");
-        if (StringUtils.isEmpty(username) ||
-                StringUtils.isEmpty(userPwd)) {
+        if (StringUtil.isEmpty(username) ||
+                StringUtil.isEmpty(userPwd)) {
             modelAndView.addObject("errorMsg", "请输入用户名密码");
             return modelAndView;
         }

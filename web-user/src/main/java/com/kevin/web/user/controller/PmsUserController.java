@@ -1,6 +1,6 @@
 package com.kevin.web.user.controller;
 
-import com.kevin.common.controller.BaseController;
+import com.kevin.common.web.controller.BaseController;
 import com.kevin.common.page.PageBean;
 import com.kevin.common.page.PageParam;
 import com.kevin.facade.user.service.PmsUserService;
