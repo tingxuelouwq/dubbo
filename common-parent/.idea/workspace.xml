@@ -2,42 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40dbbca5-137b-40ce-b65f-9c5b02543152" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-config/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../common-config/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../common-core/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-core/target/classes/com/kevin/common/core/dao/BaseDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-core/target/classes/com/kevin/common/core/dao/impl/BaseDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-core/target/classes/com/kevin/common/core/service/BaseService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-core/target/classes/com/kevin/common/core/service/impl/BaseServiceImpl.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-user/src/main/java/com/kevin/web/user/listener/DestroyDubboNettyClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../common-web/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-web/target/classes/com/kevin/common/web/controller/BaseController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-web/target/classes/com/kevin/common/web/exceptionhandler/BaseExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../common/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/ret/RetFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/ret/RetFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/target/classes/com/kevin/common/ret/RetFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../common/target/classes/com/kevin/common/ret/RetFormatter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/target/common.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../common/target/common.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../service-user/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/classes/spring/spring-context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/target/lib/common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-user/logs/service-user.log" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/logs/service-user.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/mysql-connector-java-8.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/protobuf-java-2.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-user/target/logs/service-user.log" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/target/logs/service-user.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../service-user/target/service-user.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/target/service-user.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web-user/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-user/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web-user/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../web-user/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-user/src/main/webapp/WEB-INF/views/pms/user_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../web-user/src/main/webapp/WEB-INF/views/pms/user_list.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web-user/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../web-user/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../web-user/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../web-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../web-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../web-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-user/target/web-user.war" beforeDir="false" afterPath="$PROJECT_DIR$/../web-user/target/web-user.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/lib/common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/lib/common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/lib/common-config-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/lib/common-config-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/lib/common-core-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/lib/common-core-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/lib/common-web-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/lib/common-web-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/lib/facade-user-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/lib/facade-user-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/views/pms/user_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../web-user/target/web-user/WEB-INF/views/pms/user_list.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,8 +39,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="219" column="31" selection-start-line="219" selection-start-column="31" selection-end-line="219" selection-end-column="31" />
+            <state relative-caret-position="371">
+              <caret line="219" column="30" selection-start-line="219" selection-start-column="30" selection-end-line="219" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -119,6 +103,17 @@
           <item name="common-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="common-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="common-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="junit:junit:4.12" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -127,8 +122,10 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1623" />
-    <option name="height" value="1047" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -331,8 +328,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -349,6 +344,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -518,15 +515,15 @@
       <workItem from="1524668192910" duration="189000" />
       <workItem from="1524668487561" duration="273000" />
       <workItem from="1539758961114" duration="30000" />
+      <workItem from="1539781426912" duration="1554000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9750000" />
+    <option name="totallyTimeSpent" value="11304000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1038" height="794" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -534,16 +531,16 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.31938776" />
+      <window_info active="true" anchor="right" id="Maven Projects" order="3" visible="true" weight="0.31903484" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3260188" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32551318" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23163265" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23458445" />
       <window_info anchor="bottom" id="Problems" order="7" />
-      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="SonarLint" order="9" />
       <window_info anchor="bottom" id="Tail" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -554,9 +551,9 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
@@ -568,6 +565,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3942">
+          <caret line="219" column="31" selection-start-line="219" selection-start-column="31" selection-end-line="219" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4500">
@@ -605,8 +609,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="219" column="31" selection-start-line="219" selection-start-column="31" selection-end-line="219" selection-end-column="31" />
+        <state relative-caret-position="371">
+          <caret line="219" column="30" selection-start-line="219" selection-start-column="30" selection-end-line="219" selection-end-column="30" />
         </state>
       </provider>
     </entry>

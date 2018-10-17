@@ -7,103 +7,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c85e3afe-1d39-4556-880a-b8e8708ce493" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../service-user/sh/appctl.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-config/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../common-config/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-config/src/main/resources/service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../common-config/src/main/resources/service.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-config/target/classes/service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../common-config/target/classes/service.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-config/target/common-config.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../common-config/target/common-config.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../common-core/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-core/target/classes/com/kevin/common/core/dao/BaseDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-core/target/classes/com/kevin/common/core/dao/impl/BaseDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-core/target/classes/com/kevin/common/core/service/BaseService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-core/target/classes/com/kevin/common/core/service/impl/BaseServiceImpl.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kevin/web/user/listener/DestroyDubboNettyClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../common-parent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../common-parent/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../common-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../common-parent/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../common-web/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-web/target/classes/com/kevin/common/web/controller/BaseController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-web/target/classes/com/kevin/common/web/exceptionhandler/BaseExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../common/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/ret/RetFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../common/src/main/java/com/kevin/common/ret/RetFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/target/classes/com/kevin/common/ret/RetFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../common/target/classes/com/kevin/common/ret/RetFormatter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common/target/common.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../common/target/common.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../service-user/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/classes/META-INF/spring/spring-context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/classes/com/kevin/service/user/dao/impl/PmsUserDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/classes/com/kevin/service/user/service/impl/PmsUserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/classes/mybatis/mapper/PmsUser.Mapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/classes/mybatis/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/classes/spring/dubbo-provider.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/classes/spring/spring-context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/classes/spring/spring-mybatis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/aspectjweaver-1.8.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/common-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/common-config-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/common-core-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/commons-codec-1.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/druid-1.1.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/dubbo-2.5.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/facade-user-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/fastjson-1.2.43.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/httpclient-4.5.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/httpcore-4.4.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/jackson-annotations-2.9.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/jackson-core-2.9.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/jackson-databind-2.9.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/javassist-3.20.0-GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/jline-0.9.94.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/jstl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/junit-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/log4j-1.2.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/mybatis-3.4.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/mybatis-spring-1.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/mysql-connector-java-6.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/netty-3.10.5.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/netty-3.2.5.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/slf4j-api-1.7.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/slf4j-log4j12-1.7.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/spring-aop-4.3.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/spring-aspects-4.3.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/spring-beans-4.3.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/spring-context-4.3.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/spring-context-support-4.3.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/spring-core-4.3.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/spring-expression-4.3.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/spring-jdbc-4.3.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/spring-jms-4.3.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/spring-messaging-4.3.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/spring-orm-4.3.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/spring-test-4.3.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/spring-tx-4.3.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/spring-web-4.3.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/spring-webmvc-4.3.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/standard-1.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/thumbnailator-0.4.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/zkclient-0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/zookeeper-3.4.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/service-user.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/test-classes/com/kevin/dubbo/DubboProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-user/logs/service-user.log" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/logs/service-user.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/mysql-connector-java-8.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/protobuf-java-2.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-user/target/logs/service-user.log" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/target/logs/service-user.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-user/target/service-user.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/target/service-user.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/pms/user_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/pms/user_list.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-user.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-user.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-user/WEB-INF/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-user/WEB-INF/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/web-user/WEB-INF/lib/common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-user/WEB-INF/lib/common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/web-user/WEB-INF/lib/common-config-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-user/WEB-INF/lib/common-config-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/web-user/WEB-INF/lib/common-core-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-user/WEB-INF/lib/common-core-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/web-user/WEB-INF/lib/common-web-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-user/WEB-INF/lib/common-web-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/web-user/WEB-INF/lib/facade-user-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-user/WEB-INF/lib/facade-user-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/web-user/WEB-INF/views/pms/user_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-user/WEB-INF/views/pms/user_list.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,25 +41,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/web-user/index.jsp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="PmsUserController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/web/user/controller/PmsUserController.java">
+      <file leaf-file-name="DestroyDubboNettyClient.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/web/user/listener/DestroyDubboNettyClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/web/user/controller/LoginController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="31" column="31" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="31" />
+            <state relative-caret-position="247">
+              <caret line="28" column="82" lean-forward="true" selection-start-line="28" selection-start-column="82" selection-end-line="28" selection-end-column="82" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,25 +53,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <file leaf-file-name="NettyClient.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.8/dubbo-2.5.8-sources.jar!/com/alibaba/dubbo/remoting/transport/netty/NettyClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dubbo-consumer.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/spring/dubbo-consumer.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="-18">
+              <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -178,6 +85,8 @@
         <option value="$PROJECT_DIR$/target/classes/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/pms/user_list.jsp" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kevin/dubbo/DaemonTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kevin/web/user/listener/DestroyDubboNettyClient.java" />
       </list>
     </option>
   </component>
@@ -236,8 +145,10 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1625" />
-    <option name="height" value="1049" />
+    <option name="x" value="1911" />
+    <option name="y" value="-9" />
+    <option name="width" value="1298" />
+    <option name="height" value="993" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -441,7 +352,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -473,7 +384,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="listener" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="web-user" type="b2602c69:ProjectViewProjectNode" />
@@ -550,24 +470,11 @@
               <item name="web-user" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="web-user" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-user" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="web-user" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-user" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-user" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="web-user" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -592,9 +499,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.web-user">
+  <component name="RunManager" selected="Application.DaemonTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="DaemonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kevin.dubbo.DaemonTest" />
+      <module name="web-user" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kevin.dubbo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="DubboConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kevin.dubbo.DubboConsumer" />
@@ -799,9 +717,11 @@
     <list>
       <item itemvalue="Tomcat Server.web-user" />
       <item itemvalue="Application.DubboConsumer" />
+      <item itemvalue="Application.DaemonTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DaemonTest" />
         <item itemvalue="Application.DubboConsumer" />
       </list>
     </recent_temporary>
@@ -839,25 +759,27 @@
       <workItem from="1531477027945" duration="24000" />
       <workItem from="1531916587232" duration="606000" />
       <workItem from="1539745700776" duration="4106000" />
+      <workItem from="1539780110667" duration="4649000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29025000" />
+    <option name="totallyTimeSpent" value="33674000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1038" height="794" extended-state="6" />
+    <frame x="1913" y="-7" width="1038" height="794" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32991204" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32959184" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32857144" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="2" />
       <window_info anchor="bottom" id="Tail" order="7" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.37142858" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
@@ -868,23 +790,23 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.8636364" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33061224" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3291536" />
       <window_info anchor="bottom" id="Problems" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.34489796" />
       <window_info id="Web" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="SonarLint" order="9" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -899,34 +821,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.8/dubbo-2.5.8-sources.jar!/com/alibaba/dubbo/container/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="75" column="36" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2520">
-          <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/dubbo-consumer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-mvc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1169,24 +1063,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.8/dubbo-2.5.8-sources.jar!/com/alibaba/dubbo/container/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="882">
           <caret line="75" column="36" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/kevin/dubbo/DubboConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -1225,13 +1105,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2358">
-          <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-context.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1239,23 +1112,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/web-user/index.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/web/user/controller/PmsUserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/web/user/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="31" column="31" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1269,7 +1129,80 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kevin/dubbo/DubboConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kevin/dubbo/DaemonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1209">
+          <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/web/user/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Softwares/Java/jdk1.8.0_161/src.zip!/java/lang/reflect/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="383" column="18" selection-start-line="383" selection-start-column="18" selection-end-line="383" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final-sources.jar!/org/jboss/netty/channel/ChannelFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="84" column="9" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.8/dubbo-2.5.8-sources.jar!/com/alibaba/dubbo/remoting/transport/netty/NettyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/web/user/listener/DestroyDubboNettyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="28" column="82" lean-forward="true" selection-start-line="28" selection-start-column="82" selection-end-line="28" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
