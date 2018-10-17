@@ -30,13 +30,13 @@ public class RetFormatter {
         messageMap.put(RetStatusCode.SERVICE_UNAVAILABLE, "Service Unavailable");
 
         // 程序异常码及对应的异常信息
-        messageMap.put(RetStatusCode.RUNTIME_EXCEPTION, "[integrate-service服务器]运行时异常");
-        messageMap.put(RetStatusCode.NULL_POINT_EXCEPTION, "[integrate-service服务器]空指针异常");
-        messageMap.put(RetStatusCode.CLASS_CAST_EXCEPTION, "[integrate-service服务器]类型转换异常");
-        messageMap.put(RetStatusCode.IO_EXCEPTION, "[integrate-service服务器]IO异常");
-        messageMap.put(RetStatusCode.NO_SUCH_METHOD_EXCEPTION, "[integrate-service服务器]未知方法异常");
-        messageMap.put(RetStatusCode.ARRAY_INDEX_OUT_OF_BOUNDS_EXCEPTION, "[integrate-service服务器]数据越界异常");
-        messageMap.put(RetStatusCode.HTTP_URL_CONNECTION_EXCEPTION, "[integrate-service服务器]网络异常");
+        messageMap.put(RetStatusCode.RUNTIME_EXCEPTION, "服务器运行时异常");
+        messageMap.put(RetStatusCode.NULL_POINT_EXCEPTION, "服务器空指针异常");
+        messageMap.put(RetStatusCode.CLASS_CAST_EXCEPTION, "服务器类型转换异常");
+        messageMap.put(RetStatusCode.IO_EXCEPTION, "服务器IO异常");
+        messageMap.put(RetStatusCode.NO_SUCH_METHOD_EXCEPTION, "服务器未知方法异常");
+        messageMap.put(RetStatusCode.ARRAY_INDEX_OUT_OF_BOUNDS_EXCEPTION, "服务器数据越界异常");
+        messageMap.put(RetStatusCode.HTTP_URL_CONNECTION_EXCEPTION, "服务器网络异常");
 
         // 数据库操作异常码及对应的异常信息
         messageMap.put(RetStatusCode.DB_INSERT_RESULT_0, "数据库操作异常, insert返回0");

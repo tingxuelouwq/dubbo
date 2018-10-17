@@ -1,4 +1,4 @@
-<%@ page import="com.kevin.facade.user.common.page.PageBean" %><%--
+<%--
   Created by IntelliJ IDEA.
   User: king
   Date: 2017/12/24

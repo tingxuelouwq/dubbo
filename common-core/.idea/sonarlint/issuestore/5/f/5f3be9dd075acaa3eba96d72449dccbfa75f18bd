@@ -1,0 +1,7 @@
+
+vsquid:S1149<"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+[squid:S1155‰">Use isEmpty() to check whether the collection is empty or not.(”¦Üšûÿÿÿÿ
+}squid:S1488>"aImmediately return this expression instead of assigning it to the temporary variable "statement".(Óýúòþÿÿÿÿ
+Zsquid:S1155R">Use isEmpty() to check whether the collection is empty or not.(”¦Üšûÿÿÿÿ
+qsquid:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(û×ÛÂ
+Zsquid:S1155w">Use isEmpty() to check whether the collection is empty or not.(”¦Üšûÿÿÿÿ

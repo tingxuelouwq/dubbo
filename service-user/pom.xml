@@ -172,8 +172,8 @@
         <resources>
             <!-- 将spring-context.xml文件打包到classes/META-INF/spring目录下-->
             <resource>
-                <targetPath>${project.build.directory}/classes/META-INF/spring</targetPath>
                 <directory>src/main/resources/spring</directory>
+                <targetPath>${project.build.directory}/classes/META-INF/spring</targetPath>
                 <filtering>true</filtering>
                 <includes>
                     <include>spring-context.xml</include>
