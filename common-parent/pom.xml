@@ -22,6 +22,17 @@
         <web-user.version>1.0-SNAPSHOT</web-user.version>
     </properties>
 
+    <distributionManagement>
+        <repository>
+            <id>releases</id>
+            <url>http://192.168.85.131:8088/repository/maven-releases/</url>
+        </repository>
+        <snapshotRepository>
+            <id>snapshot</id>
+            <url>http://192.168.85.131:8088/repository/maven-snapshots/</url>
+        </snapshotRepository>
+    </distributionManagement>
+
     <dependencies>
         <!-- Test Dependency Begin -->
         <dependency>
