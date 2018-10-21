@@ -6,28 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c85e3afe-1d39-4556-880a-b8e8708ce493" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kevin/web/user/listener/DestroyDubboNettyClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-parent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../common-parent/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../common-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../common-parent/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/logs/service-user.log" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/logs/service-user.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/mysql-connector-java-8.0.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/lib/protobuf-java-2.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/logs/service-user.log" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/target/logs/service-user.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-user/target/service-user.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../service-user/target/service-user.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/web-user.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-user.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/web-user/WEB-INF/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-user/WEB-INF/classes/log4j.properties" afterDir="false" />
-    </list>
+    <list default="true" id="c85e3afe-1d39-4556-880a-b8e8708ce493" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/web/user/listener/DestroyDubboNettyClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="28" column="82" lean-forward="true" selection-start-line="28" selection-start-column="82" selection-end-line="28" selection-end-column="82" />
+              <caret line="28" column="84" selection-start-line="28" selection-start-column="84" selection-end-line="28" selection-end-column="84" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,8 +35,17 @@
       <file leaf-file-name="NettyClient.java" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.8/dubbo-2.5.8-sources.jar!/com/alibaba/dubbo/remoting/transport/netty/NettyClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-18">
-              <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+            <state relative-caret-position="303">
+              <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChannelFactory.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final-sources.jar!/org/jboss/netty/channel/ChannelFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -759,12 +747,12 @@
       <workItem from="1531477027945" duration="24000" />
       <workItem from="1531916587232" duration="606000" />
       <workItem from="1539745700776" duration="4106000" />
-      <workItem from="1539780110667" duration="4649000" />
+      <workItem from="1539780110667" duration="5009000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33674000" />
+    <option name="totallyTimeSpent" value="34034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="1038" height="794" extended-state="6" />
@@ -1175,13 +1163,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final-sources.jar!/org/jboss/netty/channel/ChannelFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="84" column="9" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-mvc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1189,17 +1170,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final-sources.jar!/org/jboss/netty/channel/ChannelFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.8/dubbo-2.5.8-sources.jar!/com/alibaba/dubbo/remoting/transport/netty/NettyClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
-          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        <state relative-caret-position="303">
+          <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/web/user/listener/DestroyDubboNettyClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="28" column="82" lean-forward="true" selection-start-line="28" selection-start-column="82" selection-end-line="28" selection-end-column="82" />
+          <caret line="28" column="84" selection-start-line="28" selection-start-column="84" selection-end-line="28" selection-end-column="84" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
